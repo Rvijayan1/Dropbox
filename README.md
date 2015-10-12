@@ -1,6 +1,6 @@
 # Dropbox
 
-Submitting Dropbox project 
+Dropbox project
 
 Following were achieved in this project
 
